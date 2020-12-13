@@ -3,10 +3,12 @@
   <groupId>per.goweii.anylayer</groupId>
   <artifactId>anylayer</artifactId>
   <versioning>
-    <release>4.1.0-androidx</release>
+    <release>4.1.0-support</release>
     <versions>
       <version>4.1.0-androidx</version>
+      <version>4.1.0</version>
+      <version>4.1.0-support</version>
     </versions>
-    <lastUpdated>20201213072935</lastUpdated>
+    <lastUpdated>20201213073844</lastUpdated>
   </versioning>
 </metadata>
