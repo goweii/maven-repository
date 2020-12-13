@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>per.goweii.anylayer</groupId>
+  <artifactId>anylayer-ext</artifactId>
+  <versioning>
+    <release>4.1.0-androidx</release>
+    <versions>
+      <version>4.1.0-androidx</version>
+    </versions>
+    <lastUpdated>20201213072936</lastUpdated>
+  </versioning>
+</metadata>
