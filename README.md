@@ -1,11 +1,15 @@
 # 如何引用
 
+- github源
 ```
-// github源
 maven { url "https://raw.githubusercontent.com/goweii/maven-repository/master/releases/" }
-// gitee源
+```
+
+- gitee源
+```
 maven { url "https://gitee.com/goweii/maven-repository/raw/master/releases/" }
 ```
+
 
 # 如何发布
 
