@@ -1,11 +1,15 @@
 # 如何引用
 
+[点击查看支持项目](https://github.com/goweii/maven-repository/blob/master/projects.md)
+
 - github源
+
 ```
 maven { url "https://raw.githubusercontent.com/goweii/maven-repository/master/releases/" }
 ```
 
 - gitee源
+
 ```
 maven { url "https://gitee.com/goweii/maven-repository/raw/master/releases/" }
 ```

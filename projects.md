@@ -1,5 +1,7 @@
 - AnyLayer
 
+[点击版本版本号](https://github.com/goweii/maven-repository/blob/master/releases/per/goweii/anylayer/anylayer/maven-metadata.xml)
+
 ```
 implementation "per.goweii.anylayer:anylayer:$version"
 implementation "per.goweii.anylayer:anylayer-ext:$version"
@@ -7,6 +9,8 @@ implementation "per.goweii.anylayer:anylayer-ktx:$version"
 ```
 
 - CodeX
+
+[点击版本版本号](https://github.com/goweii/maven-repository/blob/master/releases/per/goweii/codex/core/maven-metadata.xml)
 
 ```
 implementation "per.goweii.codex:core:$version"
@@ -26,6 +30,8 @@ implementation "per.goweii.codex:processor-hms-plus:$version"
 ```
 
 - Ponyo
+
+[点击版本版本号](https://github.com/goweii/maven-repository/blob/master/releases/per/goweii/ponyo/ponyo/maven-metadata.xml)
 
 ```
 implementation "per.goweii.ponyo:ponyo:$version"
